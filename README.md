@@ -93,7 +93,7 @@ This notebook details the fine-tuning process for the **Google Gemma 3-12b-it** 
 
 ## Comparison
 
-While the assignment aimed to compare the baseline (pre-trained) model's performance with the fine-tuned model, full execution of this comparison was not completed due to computational resource constraints. Attempts and preliminary experimental notebooks for this phase are provided in the `fine_tuning_experiments/` folder.
+While the assignment aimed to compare the baseline (pre-trained) model's performance with the fine-tuned model, <ins> full execution of this comparison was not completed due to computational resource constraints </ins>. Attempts and preliminary experimental notebooks for this phase are provided in the `fine_tuning_experiments/` folder.
 
 ## Deliverables & Project Assets
 
