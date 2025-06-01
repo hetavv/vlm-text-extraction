@@ -10,3 +10,27 @@ This submission is organized into three main Google Colab notebooks for clarity 
 1.  `data_prep_and_image_enhancement.ipynb`: Handles dataset creation, ground truth generation, and advanced image processing using a GAN for image restoration.
 2.  `baseline_inference.ipynb`: Performs baseline text extraction using an off-the-shelf VLM and evaluates its performance on both raw and enhanced scans.
 3.  `model_fine_tuning.ipynb`: Demonstrates the fine-tuning process of the chosen VLM using parameter-efficient methods.
+
+### 1. Data Preparation and Image Enhancement
+
+**Notebook:** `data_prep_and_image_enhancement.ipynb` : addresses Task 1 (Dataset) and Task 2 (Advanced Image Processing) of the assignment
+
+
+This notebook covers the foundational steps of the project: dataset preparation, robust ground truth generation, and advanced image preprocessing.
+
+* **Dataset Structuring:** The raw dataset was systematically split into 70% training, 15% validation, and 15% test sets, organized into a JSON file format for efficient access.
+
+* **Data Integrity & Ground Truth Analysis:**
+    * Initial OCR (Tesseract) generated ground truth for Gujarati text extraction.
+    * Manual inspection revealed critical issues: noise interference (markings, handwritten notes), OCR misinterpretations (dots as digits, barcodes as noise), and errors from improper scans.
+    * A robust refinement process was implemented using regular expressions and LLM (GPT) assistance to correct and clean the ground truth.
+    * Cleaned ground truth is stored separately (`ground_truth_cleaned`) maintaining the train/test/validation structure, enabling clear comparison with original OCR output
+    * <img width="1286" alt="Screenshot 2025-06-01 at 11 22 18 PM" src="https://github.com/user-attachments/assets/1b5f9ef7-0bec-4be2-a6b0-b9dd3b9e8046" />
+
+
+
+* **Advanced Image Preprocessing:**
+    * After trying out various diffusion and GAN techniques, the **DocRes model** was selected for image restoration as it was performing the best for task at hand. DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks [[Arxiv](https://arxiv.org/abs/2405.04408)]
+    * This choice was based on its effectiveness in mitigating common artifacts in scanned documents, such as background noise, text-bleed, stains, and aging effects, which directly impacts downstream VLM performance.
+    * ![WhatsApp Image 2025-05-31 at 15 02 13](https://github.com/user-attachments/assets/5b4fac44-9865-4f85-ad79-837cb3d0a010)
+    * <img width="1203" alt="Screenshot 2025-06-01 at 11 12 53 PM" src="https://github.com/user-attachments/assets/abb8bd2a-f49d-4982-93b6-9a6753616be3" />
