@@ -1,0 +1,508 @@
+{
+  "train": [
+    {
+      "filename": "Swarupsannidhan_0012.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0012.png",
+      "number": 12
+    },
+    {
+      "filename": "Swarupsannidhan_0048.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0048.png",
+      "number": 48
+    },
+    {
+      "filename": "Swarupsannidhan_0086.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0086.png",
+      "number": 86
+    },
+    {
+      "filename": "Swarupsannidhan_0029.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0029.png",
+      "number": 29
+    },
+    {
+      "filename": "Swarupsannidhan_0094.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0094.png",
+      "number": 94
+    },
+    {
+      "filename": "Swarupsannidhan_0006.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0006.png",
+      "number": 6
+    },
+    {
+      "filename": "Swarupsannidhan_0067.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0067.png",
+      "number": 67
+    },
+    {
+      "filename": "Swarupsannidhan_0066.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0066.png",
+      "number": 66
+    },
+    {
+      "filename": "Swarupsannidhan_0036.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0036.png",
+      "number": 36
+    },
+    {
+      "filename": "Swarupsannidhan_0017.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0017.png",
+      "number": 17
+    },
+    {
+      "filename": "Swarupsannidhan_0050.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0050.png",
+      "number": 50
+    },
+    {
+      "filename": "Swarupsannidhan_0035.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0035.png",
+      "number": 35
+    },
+    {
+      "filename": "Swarupsannidhan_0008.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0008.png",
+      "number": 8
+    },
+    {
+      "filename": "Swarupsannidhan_0096.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0096.png",
+      "number": 96
+    },
+    {
+      "filename": "Swarupsannidhan_0028.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0028.png",
+      "number": 28
+    },
+    {
+      "filename": "Swarupsannidhan_0020.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0020.png",
+      "number": 20
+    },
+    {
+      "filename": "Swarupsannidhan_0082.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0082.png",
+      "number": 82
+    },
+    {
+      "filename": "Swarupsannidhan_0026.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0026.png",
+      "number": 26
+    },
+    {
+      "filename": "Swarupsannidhan_0063.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0063.png",
+      "number": 63
+    },
+    {
+      "filename": "Swarupsannidhan_0014.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0014.png",
+      "number": 14
+    },
+    {
+      "filename": "Swarupsannidhan_0025.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0025.png",
+      "number": 25
+    },
+    {
+      "filename": "Swarupsannidhan_0004.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0004.png",
+      "number": 4
+    },
+    {
+      "filename": "Swarupsannidhan_0018.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0018.png",
+      "number": 18
+    },
+    {
+      "filename": "Swarupsannidhan_0039.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0039.png",
+      "number": 39
+    },
+    {
+      "filename": "Swarupsannidhan_0009.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0009.png",
+      "number": 9
+    },
+    {
+      "filename": "Swarupsannidhan_0079.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0079.png",
+      "number": 79
+    },
+    {
+      "filename": "Swarupsannidhan_0007.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0007.png",
+      "number": 7
+    },
+    {
+      "filename": "Swarupsannidhan_0065.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0065.png",
+      "number": 65
+    },
+    {
+      "filename": "Swarupsannidhan_0037.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0037.png",
+      "number": 37
+    },
+    {
+      "filename": "Swarupsannidhan_0090.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0090.png",
+      "number": 90
+    },
+    {
+      "filename": "Swarupsannidhan_0057.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0057.png",
+      "number": 57
+    },
+    {
+      "filename": "Swarupsannidhan_0100.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0100.png",
+      "number": 100
+    },
+    {
+      "filename": "Swarupsannidhan_0055.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0055.png",
+      "number": 55
+    },
+    {
+      "filename": "Swarupsannidhan_0044.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0044.png",
+      "number": 44
+    },
+    {
+      "filename": "Swarupsannidhan_0051.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0051.png",
+      "number": 51
+    },
+    {
+      "filename": "Swarupsannidhan_0068.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0068.png",
+      "number": 68
+    },
+    {
+      "filename": "Swarupsannidhan_0047.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0047.png",
+      "number": 47
+    },
+    {
+      "filename": "Swarupsannidhan_0069.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0069.png",
+      "number": 69
+    },
+    {
+      "filename": "Swarupsannidhan_0062.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0062.png",
+      "number": 62
+    },
+    {
+      "filename": "Swarupsannidhan_0098.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0098.png",
+      "number": 98
+    },
+    {
+      "filename": "Swarupsannidhan_0080.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0080.png",
+      "number": 80
+    },
+    {
+      "filename": "Swarupsannidhan_0042.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0042.png",
+      "number": 42
+    },
+    {
+      "filename": "Swarupsannidhan_0059.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0059.png",
+      "number": 59
+    },
+    {
+      "filename": "Swarupsannidhan_0049.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0049.png",
+      "number": 49
+    },
+    {
+      "filename": "Swarupsannidhan_0099.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0099.png",
+      "number": 99
+    },
+    {
+      "filename": "Swarupsannidhan_0058.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0058.png",
+      "number": 58
+    },
+    {
+      "filename": "Swarupsannidhan_0076.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0076.png",
+      "number": 76
+    },
+    {
+      "filename": "Swarupsannidhan_0033.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0033.png",
+      "number": 33
+    },
+    {
+      "filename": "Swarupsannidhan_0095.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0095.png",
+      "number": 95
+    },
+    {
+      "filename": "Swarupsannidhan_0060.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0060.png",
+      "number": 60
+    },
+    {
+      "filename": "Swarupsannidhan_0064.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0064.png",
+      "number": 64
+    },
+    {
+      "filename": "Swarupsannidhan_0085.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0085.png",
+      "number": 85
+    },
+    {
+      "filename": "Swarupsannidhan_0038.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0038.png",
+      "number": 38
+    },
+    {
+      "filename": "Swarupsannidhan_0030.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0030.png",
+      "number": 30
+    },
+    {
+      "filename": "Swarupsannidhan_0002.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0002.png",
+      "number": 2
+    },
+    {
+      "filename": "Swarupsannidhan_0053.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0053.png",
+      "number": 53
+    },
+    {
+      "filename": "Swarupsannidhan_0022.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0022.png",
+      "number": 22
+    },
+    {
+      "filename": "Swarupsannidhan_0003.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0003.png",
+      "number": 3
+    },
+    {
+      "filename": "Swarupsannidhan_0024.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0024.png",
+      "number": 24
+    },
+    {
+      "filename": "Swarupsannidhan_0088.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0088.png",
+      "number": 88
+    },
+    {
+      "filename": "Swarupsannidhan_0092.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0092.png",
+      "number": 92
+    },
+    {
+      "filename": "Swarupsannidhan_0075.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0075.png",
+      "number": 75
+    },
+    {
+      "filename": "Swarupsannidhan_0087.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0087.png",
+      "number": 87
+    },
+    {
+      "filename": "Swarupsannidhan_0083.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0083.png",
+      "number": 83
+    },
+    {
+      "filename": "Swarupsannidhan_0021.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0021.png",
+      "number": 21
+    },
+    {
+      "filename": "Swarupsannidhan_0061.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0061.png",
+      "number": 61
+    },
+    {
+      "filename": "Swarupsannidhan_0072.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0072.png",
+      "number": 72
+    },
+    {
+      "filename": "Swarupsannidhan_0015.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0015.png",
+      "number": 15
+    },
+    {
+      "filename": "Swarupsannidhan_0093.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0093.png",
+      "number": 93
+    },
+    {
+      "filename": "Swarupsannidhan_0052.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0052.png",
+      "number": 52
+    }
+  ],
+  "val": [
+    {
+      "filename": "Swarupsannidhan_0027.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0027.png",
+      "number": 27
+    },
+    {
+      "filename": "Swarupsannidhan_0054.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0054.png",
+      "number": 54
+    },
+    {
+      "filename": "Swarupsannidhan_0071.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0071.png",
+      "number": 71
+    },
+    {
+      "filename": "Swarupsannidhan_0016.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0016.png",
+      "number": 16
+    },
+    {
+      "filename": "Swarupsannidhan_0046.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0046.png",
+      "number": 46
+    },
+    {
+      "filename": "Swarupsannidhan_0089.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0089.png",
+      "number": 89
+    },
+    {
+      "filename": "Swarupsannidhan_0041.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0041.png",
+      "number": 41
+    },
+    {
+      "filename": "Swarupsannidhan_0013.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0013.png",
+      "number": 13
+    },
+    {
+      "filename": "Swarupsannidhan_0073.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0073.png",
+      "number": 73
+    },
+    {
+      "filename": "Swarupsannidhan_0056.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0056.png",
+      "number": 56
+    },
+    {
+      "filename": "Swarupsannidhan_0081.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0081.png",
+      "number": 81
+    },
+    {
+      "filename": "Swarupsannidhan_0019.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0019.png",
+      "number": 19
+    },
+    {
+      "filename": "Swarupsannidhan_0091.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0091.png",
+      "number": 91
+    },
+    {
+      "filename": "Swarupsannidhan_0032.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0032.png",
+      "number": 32
+    },
+    {
+      "filename": "Swarupsannidhan_0023.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0023.png",
+      "number": 23
+    }
+  ],
+  "test": [
+    {
+      "filename": "Swarupsannidhan_0097.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0097.png",
+      "number": 97
+    },
+    {
+      "filename": "Swarupsannidhan_0005.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0005.png",
+      "number": 5
+    },
+    {
+      "filename": "Swarupsannidhan_0043.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0043.png",
+      "number": 43
+    },
+    {
+      "filename": "Swarupsannidhan_0078.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0078.png",
+      "number": 78
+    },
+    {
+      "filename": "Swarupsannidhan_0011.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0011.png",
+      "number": 11
+    },
+    {
+      "filename": "Swarupsannidhan_0001.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0001.png",
+      "number": 1
+    },
+    {
+      "filename": "Swarupsannidhan_0010.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0010.png",
+      "number": 10
+    },
+    {
+      "filename": "Swarupsannidhan_0070.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0070.png",
+      "number": 70
+    },
+    {
+      "filename": "Swarupsannidhan_0074.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0074.png",
+      "number": 74
+    },
+    {
+      "filename": "Swarupsannidhan_0084.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0084.png",
+      "number": 84
+    },
+    {
+      "filename": "Swarupsannidhan_0045.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0045.png",
+      "number": 45
+    },
+    {
+      "filename": "Swarupsannidhan_0077.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0077.png",
+      "number": 77
+    },
+    {
+      "filename": "Swarupsannidhan_0040.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0040.png",
+      "number": 40
+    },
+    {
+      "filename": "Swarupsannidhan_0034.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0034.png",
+      "number": 34
+    },
+    {
+      "filename": "Swarupsannidhan_0031.png",
+      "path": "/content/drive/MyDrive/VLM_Assignment/images/Swarupsannidhan_0031.png",
+      "number": 31
+    }
+  ]
+}
