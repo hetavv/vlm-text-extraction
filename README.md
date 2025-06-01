@@ -36,3 +36,42 @@ This notebook covers the foundational steps of the project: dataset preparation,
     * This choice was based on its effectiveness in mitigating common artifacts in scanned documents, such as background noise, text-bleed, stains, and aging effects, which directly impacts downstream VLM performance.
     * ![WhatsApp Image 2025-05-31 at 15 02 13](https://github.com/user-attachments/assets/5b4fac44-9865-4f85-ad79-837cb3d0a010)
     * <img width="1203" alt="Screenshot 2025-06-01 at 11 12 53 PM" src="https://github.com/user-attachments/assets/abb8bd2a-f49d-4982-93b6-9a6753616be3" />
+
+**Notebook:** `baseline_inference.ipynb` : addresses task 3 (baseline inference), task 4 (Text organization), and task 6 (comparison)
+
+This notebook addresses the baseline performance evaluation of the chosen Vision-Language Model for text extraction.
+
+* **Model Application:** The **Google Gemma 3-12b-it** model was used for text extraction. Due to compute constraints, inference was performed on both raw source images and DocRes-cleaned images in chunks of 25.
+* **Prompting Strategy:** Text was extracted using the following prompt:
+
+    ```python
+    messages = [
+        {
+            "role": "system",
+            "content": [{"type": "text", "text": "You are a helpful assistant."}]
+        },
+        {
+            "role": "user",
+            "content": [
+                {"type": "image", "url": image_path},
+                {"type": "text", "text": "Please extract and transcribe all the text you can see in this image. The text is in Gujarati language. Just provide the text content without any additional commentary"}
+            ]
+        }
+    ]
+    ```
+
+* **Comprehensive Evaluation:** Performance was rigorously evaluated using the following metrics, calculated after normalizing the text:
+    * **Word Error Rate (WER)**
+    * **Character Error Rate (CER)**
+    * **Custom Sequence-Accuracy Score:** This metric currently calculates a basic line-match accuracy, where reference and hypothesis texts are split into lines and stripped for comparison. Further development is needed to prioritize specific aspects like correct sentence structure or text positioning based on project requirements.
+
+#### Baseline Evaluation Results
+
+| Metric                             | Raw Scans | Enhanced Scans | Delta (Enhanced - Raw) |
+| :--------------------------------- | :-------- | :------------- | :--------------------- |
+| Word Error Rate (WER)              | 0.6476    | 0.6990         | 0.0514                 |
+| Character Error Rate (CER)         | 0.4311    | 0.4742         | 0.0431                 |
+| Custom Sequence-Accuracy Score     | 0.0184    | 0.0133         | -0.0051                |
+
+---
+
