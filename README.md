@@ -13,6 +13,8 @@ This submission is organized into three main Google Colab notebooks for clarity 
 2.  `baseline_inference.ipynb`: Performs baseline text extraction using an off-the-shelf VLM and evaluates its performance on both raw and enhanced scans.
 3.  `model_fine_tuning.ipynb`: Demonstrates the fine-tuning process of the chosen VLM using parameter-efficient methods.
 
+All the files and notebooks that are present in this repo, along with all the raw, enhanced images, ground truths and Finetuned gemma lora adapter checkpoints are also present here in this [Drive link](https://drive.google.com/drive/folders/1xSC6Ys7WwtskumzbtIagm1jePIIkCXZF?usp=sharing)
+
 ### 1. Data Preparation and Image Enhancement
 
 **Notebook:** `data_prep_and_image_enhancement.ipynb` : addresses Task 1 (Dataset) and Task 2 (Advanced Image Processing) of the assignment
@@ -97,7 +99,7 @@ While the assignment aimed to compare the baseline (pre-trained) model's perform
 
 * All end-to-end reproducible code is provided as Python notebooks in this github repo - please reload incase the notebooks don't render
 * The `dataset_splits.json` file, detailing the training, validation, and test splits, is included.
-* All generated ground truth files (both original OCR and cleaned versions) are provided within their respective directories.
+* All folders with images, Doc-Res improved images, ground truths, cleaned up ground truths and Finetuned gemma lora adapter checkpoints are available in [Drive here](https://drive.google.com/drive/folders/1xSC6Ys7WwtskumzbtIagm1jePIIkCXZF?usp=sharing).
 * Experimental notebooks related to fine-tuning evaluation attempts are located in the `fine_tuning_experiments/` folder.
 
 ---
