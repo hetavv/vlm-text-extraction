@@ -75,3 +75,29 @@ This notebook addresses the baseline performance evaluation of the chosen Vision
 
 ---
 
+## 3. Model Fine-Tuning
+
+**Notebook:** `model_fine_tuning.ipynb`
+
+This notebook details the fine-tuning process for the **Google Gemma 3-12b-it** Vision-Language Model.
+
+* **Fine-Tuning Data:** The model was fine-tuned using the 70 images designated for the training set, leveraging the carefully curated ground truth.
+* **Parameter-Efficient Tuning:** Parameter-efficient tuning methods, such as LoRA (Low-Rank Adaptation), were employed to optimize performance while significantly reducing computational cost and memory footprint, making the fine-tuning process more efficient.
+* **Loss Reduction:** The fine-tuning process successfully demonstrated a reduction in loss, indicating improved model performance on the specific dataset.
+* <img width="703" alt="Screenshot 2025-06-01 at 11 53 20 PM" src="https://github.com/user-attachments/assets/448a6d31-ebad-4866-8629-5c8adb1753a0" />
+
+
+---
+
+## Comparison
+
+While the assignment aimed to compare the baseline (pre-trained) model's performance with the fine-tuned model, full execution of this comparison was not completed due to computational resource constraints. Attempts and preliminary experimental notebooks for this phase are provided in the `fine_tuning_experiments/` folder.
+
+## Deliverables & Project Assets
+
+* All end-to-end reproducible code is provided as Python notebooks in this github repo - please reload incase the notebooks don't render
+* The `dataset_splits.json` file, detailing the training, validation, and test splits, is included.
+* All generated ground truth files (both original OCR and cleaned versions) are provided within their respective directories.
+* Experimental notebooks related to fine-tuning evaluation attempts are located in the `fine_tuning_experiments/` folder.
+
+---
