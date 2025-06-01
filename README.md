@@ -39,6 +39,8 @@ This notebook covers the foundational steps of the project: dataset preparation,
     * ![WhatsApp Image 2025-05-31 at 15 02 13](https://github.com/user-attachments/assets/5b4fac44-9865-4f85-ad79-837cb3d0a010)
     * <img width="1203" alt="Screenshot 2025-06-01 at 11 12 53 PM" src="https://github.com/user-attachments/assets/abb8bd2a-f49d-4982-93b6-9a6753616be3" />
 
+### 2. Baseline Inferencing
+
 **Notebook:** `baseline_inference.ipynb` : addresses task 3 (baseline inference), task 4 (Text organization), and task 6 (comparison)
 
 This notebook addresses the baseline performance evaluation of the chosen Vision-Language Model for text extraction.
