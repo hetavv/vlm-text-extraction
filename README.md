@@ -5,6 +5,7 @@ This repository contains the code and results for the Vision Language Model (VLM
 
 The primary Multi-modal Model used for this project is the **Google Gemma 3-12b-it** multimodal model, available on [Hugging Face](https://huggingface.co/google/gemma-3-12b-it)
 
+P.S This repo and assignment is created with assitance from ChatGPT and Gemini chatbots
 ## Repository Structure
 
 This submission is organized into three main Google Colab notebooks for clarity and reproducibility:
