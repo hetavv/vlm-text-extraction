@@ -1,5 +1,4 @@
 # vlm-text-extraction
-# VLM Assignment - MLE
 
 This repository contains the code and results for the Vision Language Model (VLM) assignment, focusing on gujarati text extraction from scanned documents, advanced image processing, and VLM fine-tuning.
 
